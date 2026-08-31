@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you are using this code please cite next work"
+title: "Data-Driven PSA"
+authors:
+  - family-names: "Bravo-Alvarado"
+    given-names: "Cesar"
+    affiliation: "Centro de Investigaciones en Óptica (CIO)"
+    orcid: "https://orcid.org/0000-0002-8975-4882"
+
+version: 1.0.0
+date-released: 2026-08-31
+url: "https://github.com/Jango979/Data-Driven_PSA"
+preferred-citation:
+  type: article
+  title: "Forced quadrature versus iterative search and dimensionality reduction: a comparative study of data-driven phase-shifting algorithms for unknown phase steps"
+  authors:
+    - family-names: "Bravo-Alvarado"
+      given-names: "Cesar"
+    - family-names: "Padilla"
+      given-names: "Moises"
+    - family-names: "Paez"
+      given-names: "Gonzalo"
+    - family-names: "Balleza-Ordaz"
+      given-names:  "Jose Marco"
+  journal: "MDPI Photonics"
+  year: 2026
+  doi: "10.xxxx/xxxxx"
